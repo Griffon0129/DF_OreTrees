@@ -2,8 +2,7 @@ inorganic_metal
 
 [OBJECT:INORGANIC]
 
-Dwarfoloid picked out a lot of the material numbers here to replace my placeholders.
-Colors added by Bohandas.
+These are basically a copy of the normal metals, except I changed the names and removed the ability to make anvils out of them (if that applies).  There isn't anything special about the ore tree metals, except you can't make alloys with them (done on purpose).
 
 [INORGANIC:IRONWOOD]
 	[USE_MATERIAL_TEMPLATE:METAL_TEMPLATE]
