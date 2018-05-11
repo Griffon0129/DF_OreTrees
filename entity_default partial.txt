@@ -1,0 +1,6 @@
+add these to the entity_default.txt with all the other permitted reactions so you'll be able to make the bars in game
+you may also want to add them to other civs so that they can smelt the trees too
+hint: elves wouldn't be able to use it even if you give it to them
+
+	[PERMITTED_REACTION:MAKE_IRONWOOD_BARS]
+	[PERMITTED_REACTION:MAKE_COPPERWOOD_BARS]
