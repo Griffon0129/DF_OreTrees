@@ -11,4 +11,4 @@ Also don't forget to add [PERMITTED_REACTION:MAKE_IRONWOOD_BARS] for example to 
 
 
 
-I plan to add several other tree types, at minium, one tree per iron type.
+I plan to add several other tree types, at minium, one tree per metal type.
