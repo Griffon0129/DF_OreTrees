@@ -2,6 +2,8 @@ plant_standard
 
 [OBJECT:PLANT]
 	
+This isn't what allows the wood to be smelted, that is controlled by the reaction file.  What is special here, other than a new tree defintion, is the fact that I used a metal template instead of the wood template which allows you to use the wood similar to metal and makes it heavier.
+	
 [PLANT:IRONWOOD_TREE]
 	[NAME:hematite tree][NAME_PLURAL:hematite trees][ADJ:hematite tree]
 	[USE_MATERIAL_TEMPLATE:STRUCTURAL:STRUCTURAL_PLANT_TEMPLATE]
