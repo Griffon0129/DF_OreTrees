@@ -10,9 +10,9 @@ When the tree is chopped it'll drop wood that functions like wood, but you can a
 
 
 To use: copy the contenets of all the files to the approperate files in Dwarf Fortress raws.
-Also don't forget to add [PERMITTED_REACTION:MAKE_IRONWOOD_BARS] for example to the entity_default.txt file so that certain civilizations can actually smelt the ore tree wood into bars.  There is a file called entity_defautl partial that contains all these permitted reaction to quickly copy/paste them in.
+Also don't forget to add [PERMITTED_REACTION:MAKE_IRONWOOD_BARS] for example to the entity_default.txt file so that certain civilizations can actually smelt the ore tree wood into bars.  There is a file called entity_default partial that contains all these permitted reaction to quickly copy/paste them in.
 
 
 
 
-I plan to add several other tree types, at minium, one tree per metal type.
+I've added copper and iron trees to the game.  My original plan was to add one tree per type of ore, but iron and copper are the most useful out of all the ores so more might not get addes.  Also, I don't plan on allowing alloys to be made from the tree ores, so most other ores would be pointless.
