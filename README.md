@@ -15,4 +15,4 @@ Also don't forget to add [PERMITTED_REACTION:MAKE_IRONWOOD_BARS] for example to 
 
 
 
-I've added copper and iron trees to the game.  My original plan was to add one tree per type of ore, but iron and copper are the most useful out of all the ores so more might not get addes.  Also, I don't plan on allowing alloys to be made from the tree ores, so most other ores would be pointless.
+I've added copper and iron trees to the game.  My original plan was to add one tree per type of ore, but iron and copper are the most useful out of all the ores so more might not get added.  Also, I don't plan on allowing alloys to be made from the tree ores, so most other ores would be pointless.
